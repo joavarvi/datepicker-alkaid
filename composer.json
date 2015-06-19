@@ -1,0 +1,21 @@
+{
+    "name": "alkaid/yii2-datepicker",
+    "description": "JS Custom Datepicker",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," datepicker"," alkiad"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Alkaid Consulting",
+            "email": "joaquin.vargas@alkaid.cr"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "alkaid\\datepicker\\": ""
+        }
+    }
+}
